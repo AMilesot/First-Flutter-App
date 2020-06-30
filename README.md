@@ -1,6 +1,17 @@
-# peliculas
+# Peliculas
 
-A new Flutter project.
+App desarrollada en Flutter, la cual se conecta a un API de peliculas  [The MovieDB](https://www.themoviedb.org/ "The MovieDB"), mostrando en un swiper principal, las peliculas mas vistas de la actualidad.
+
+Un infite scroll con las peliculas populares y aceeso a informacion de la pelicula, como lo es su ranking, titulo original, pequeño resumen y lista de actores.
+
+Tambien se puede realizar busquedas y mostrrar la informacion correspondiente.
+
+#Demo
+
+
+<div style="text-align: center"></div[![Demo>[![Demo Doccou alpha](https://i.imgur.com/IW3BLDV.gif[)]</div>
+
+
 
 ## Getting Started
 
