@@ -9,7 +9,8 @@ Tambien se puede realizar busquedas y mostrrar la informacion correspondiente.
 #Demo
 
 
-<div style="text-align: center"></div[![Demo>[![Demo Doccou alpha](https://i.imgur.com/IW3BLDV.gif[)]</div>
+
+[![Demo](https://i.imgur.com/IW3BLDV.gif "Demo")](https://i.imgur.com/IW3BLDV.gif "Demo")
 
 
 
