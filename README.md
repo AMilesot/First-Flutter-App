@@ -6,7 +6,7 @@ Un infite scroll con las peliculas populares y aceeso a informacion de la pelicu
 
 Tambien se puede realizar busquedas y mostrrar la informacion correspondiente.
 
-#Demo
+# Demo
 
 
 
